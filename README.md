@@ -1,8 +1,8 @@
-/*
-									UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
-								  FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
-									  ALGORITMOS Y ESTRUCTURA DE DATOS
-											     PRÁCTICA #8
+
+					UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
+				      FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
+                                         ALGORITMOS Y ESTRUCTURA DE DATOS
+	                                           PRÁCTICA #8
 
 Nombre: Rodríguez Muñoz José Luis
 Práctica: Simulación con Colas
@@ -52,5 +52,3 @@ En esta práctica se pide simular un CARWASH con el esquema cliente / servidor c
 - En todo momento deben estar visibles los carros pendientes en la cola.
 - El lenguaje de programación es libre.
 - El programa debe estar organizado en funciones o métodos que realicen solo una tarea.
-
-*/
