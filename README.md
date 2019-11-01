@@ -5,8 +5,6 @@
 	                                           PRÁCTICA #8
 
 Nombre: Rodríguez Muñoz José Luis
-Práctica: Simulación con Colas
-Fecha: 28/OCT/2019
 
 Descripción:
 Las colas se presentan naturalmente en situaciones donde la tasa de demanda de servicio por
